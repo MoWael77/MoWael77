@@ -60,8 +60,8 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://www.linkedin.com/in/mohamedwael7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmZD9F5ZzT3ithtKMoaMcmQ%3D%3D" width="52" height="40" alt="linkedin logo"  />
+  <img src="mailto:mohamed2306086@miuegypt.edu.eg" width="52" height="40" alt="gmail logo"  />
 </div>
 
 ###
