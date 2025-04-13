@@ -60,7 +60,7 @@
 
 ###
 
-<h2 align="left">GitHub Activity Snake 📈🐍</h2>
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mohamedwael7" target="_blank">
@@ -72,6 +72,9 @@
 </div>
 
 ###
+
+<h2 align="left">GitHub Activity Snake 📈🐍</h2>
+
 <img src="https://raw.githubusercontent.com/mohamedelziat50/mohamedelziat50/output/snake.svg" alt="Snake animation" />
 
 ###
