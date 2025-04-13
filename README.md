@@ -60,8 +60,12 @@
 ###
 
 <div align="left">
-  <img src="https://www.linkedin.com/in/mohamedwael7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmZD9F5ZzT3ithtKMoaMcmQ%3D%3D" width="52" height="40" alt="linkedin logo"  />
-  <img src="mailto:mohamed2306086@miuegypt.edu.eg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/mohamedwael7" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  </a>
+  <a href="mailto:mohamed2306086@miuegypt.edu.eg" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+  </a>
 </div>
 
 ###
