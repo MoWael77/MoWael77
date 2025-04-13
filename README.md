@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Tools & Technologies 🛠️</p>
+<h2 align="left">Tools & Technologies 🛠️</h2>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<p align="left">Connect with me! 🌐</p>
+<h2 align="left">Connect with me! 🌐</h2>
 
 ###
 
