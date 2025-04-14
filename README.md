@@ -72,6 +72,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MoWael77/MoWael77/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mohamedelziat50/mohamedelziat50/output/snake.svg" alt="Snake animation" />
 
 ###
